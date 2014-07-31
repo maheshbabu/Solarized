@@ -10,7 +10,7 @@
         "url": "git://github.com/Brackets-Themes/Solarized.git"
     },
     "engines": {
-        "brackets": ">=0.42.0"
+        "brackets": ">=0.40.0"
     },
     "theme": {
         "file": "main.less"
